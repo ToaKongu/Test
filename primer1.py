@@ -1,7 +1,7 @@
-print('Hello')
-<<<<<<< HEAD
-print('well well well....')
-=======
-print('Bye bye!')
-print('ABOBA')
->>>>>>> test
+
+i = 0
+while i < 10:
+	print('ABOBA')
+	i += 1
+print("Thats all!!")
+

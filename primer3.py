@@ -1,3 +1,4 @@
-print('halo')
-print('halo')
-print('hello!!!!')
+print(1)
+print(1)
+print(1)
+
