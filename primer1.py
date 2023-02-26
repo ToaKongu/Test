@@ -5,3 +5,4 @@ while i < 10:
 	i += 1
 print("Thats all!!")
 
+print(123)
